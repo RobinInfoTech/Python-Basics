@@ -1,7 +1,7 @@
 def addition(a,b):
     '''
-    Function Name:
-    Function Description
+    Function Name: addition
+    Function Description: adds 2 integers
 
 
     Written by Robin :>
